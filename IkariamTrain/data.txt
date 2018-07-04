@@ -1,0 +1,70 @@
+----------Main1----------
+MetalciPlamena	0
+ParniRami	16
+Rami		5
+Baliste		0
+LadjeMortarji	6
+LadjeKatapulti	0
+Raketne		3
+Podmornice	0
+HitriParniki	3
+NosilciBalonov	0
+ServisniDoki	0
+0D 12H 18M 11S
+
+
+Sulicarji	18
+ParniVelikani	36
+MetalciKopja	0
+Mecevalci	90
+Pracarji	0
+Lokostrelci	0
+Musketirji	14
+Ovni		6
+Katapulti	0
+Mortarji	2
+Girokopterji	11
+Bombniki	21
+Kuharji		0
+Zdravniki	0
+0D 14H 47M 16S
+
+
+--------Other5i|6s--------
+MetalciPlamena	0
+ParniRami	13
+Rami		7
+Baliste		0
+LadjeMortarji	4
+LadjeKatapulti	0
+Raketne		4
+Podmornice	0
+HitriParniki	3
+NosilciBalonov	2
+ServisniDoki	0
+0D 11H 46M 42S
+
+
+Sulicarji	11
+ParniVelikani	35
+MetalciKopja	0
+Mecevalci	90
+Pracarji	0
+Lokostrelci	0
+Musketirji	14
+Ovni		0
+Katapulti	0
+Mortarji	5
+Girokopterji	7
+Bombniki	15
+Kuharji		0
+Zdravniki	0
+0D 13H 25M 15S
+
+
+----------Nether1----------
+Rami		54
+Podmornice	0
+0D 9H 59M 10S
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="IkariamZid">
+</Property><Property Name="Solution File" Value="D:\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid.sln">
+</Property><Property Name="Date" Value="16. december 2012">
+</Property><Property Name="Time" Value="23:10">
+</Property></Properties><Event ErrorLevel="0" Project="IkariamZid" Source="IkariamZid\IkariamZid.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="IkariamZid" Source="IkariamZid\IkariamZid.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="IkariamZid.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="IkariamZid.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="IkariamZid" Source="IkariamZid\IkariamZid.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

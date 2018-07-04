@@ -1,0 +1,32 @@
+0.1 (18.2.2012 - 16:46)
+Omogoèa približen izraèun èasa v katerem bo mesto polno ob podanih podatkih.
+Podatke je potrebno vnesti lokalno.
+
+0.1.1 (24.2.2012 - 18:25)
+Dodana izbira ureditve države
+
+0.1.2 (25.2.2012 - 22:51)
+Dodan izraèun za korupcijo
+
+0.1.3 (26.2.2012 - 13:49)
+Dodano pomnjenje bonusa skozi raziskave
+
+0.1.4 (29.2.2012 - 16:04)
+Dodana razdelitev pri kulturi, kultura preimenovana v muzeji + sporazumi
+
+0.1.5 (20.3.2012 - 19:59)
+Dodano raèunanje samo z vnosom rasti (not working as intended)
+
+0.1.6 (30.5.2012 - 11:58)
+Popravljno raèunanje samo z vnosom rasti.
+
+0.1.7 (12.6.2012 - 22:46)
+Dodan loèen vnos vrednosti pridobljene skozi prestolnico.
+
+0.1.8 (14.6.2012 - 19:04)
+Disable/enable funkcije delajo kot morajo.
+Raèunanje z rastjo bi moralo dati enake rezultate kot raèunanje z bonusi
+TODO: Testiranje, èe je rezultat pravilen. Tested.
+
+0.1.9 (16.12.2012 - 22:54)
+Odpravljen hrošè, da se pri izbiri rasti Stopnja Vere ni izkljuèila.

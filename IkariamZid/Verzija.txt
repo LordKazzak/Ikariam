@@ -1,0 +1,8 @@
+0.1 (8.4.2012 - 21:15)
+Izraèuna koliko doloèenih enot je potrebnih za preluknjanje zidu v eni rundi.
+
+0.1.1 (16.5.2012 - 15:29)
+Dodan about box, boljša obrazložitev vnosa ter izboljšana koda.
+
+0.1.2 (23.3.2014 - 20:13)
+Dodana anglešèina.

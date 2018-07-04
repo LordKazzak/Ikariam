@@ -1,0 +1,42 @@
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.exe
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.pdb
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.Properties.Resources.resources
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.csproj.GenerateResource.Cache
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.exe
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.pdb
+C:\Users\The Machine\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.resources
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.exe
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.pdb
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.exe
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.pdb
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.resources
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.Properties.Resources.resources
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.About.resources
+D:\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.exe
+D:\Dropbox\Aplikacije\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.pdb
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.exe
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.pdb
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.exe
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.pdb
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\en\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.About.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.Properties.Resources.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.About.en.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.en.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.csproj.GenerateResource.Cache
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\en\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\IkariamZid.exe.config
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\en-GB\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.en-GB.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\en-GB\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.en-IE.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.FormIkariamZid.nl-NL.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\en-IE\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\bin\Debug\nl-NL\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\en-IE\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\nl-NL\IkariamZid.resources.dll
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamZid\IkariamZid\IkariamZid\obj\Debug\IkariamZid.csprojResolveAssemblyReference.cache

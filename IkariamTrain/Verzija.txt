@@ -1,0 +1,38 @@
+0.1.0 (1.6.2013 - 14:32)
+Adaptacija IkariamGenerali
+
+0.1.1 (2.6.2013 - 3:32)
+Vkljuèeno (skoraj) vse, kar je v IkariamGenerali
+Dodano raèunanje èasa (ne deluje najbolje - najverjetneje so enote pomešane)
+
+1.0.0 (8.6.2013 - 2:41) - Release verzija
+Odpravljeni hrošèi
+Omogoèen dokaj natanèen izpis (pri dnevu odstopanje kakšne minute)
+Dodano branje podatkov iz .ini datoteke
+Dokaj dobra razdelitev med kristalom in nekristalom
+Omogoèena izbira raèunanja samo z enotami/ladjami
+Dodana ikona
+
+1.0.1 (10.6.2013 - 0:38)
+Dodano avtomatsko pretvarjanje deležev pri enotah, ki se uporabljajo v doloèenih razmerjih.
+
+1.0.2 (6.8.2013 - 20:47)
+Popravljeno raèunanje zlata/generalov.
+
+1.0.3 (13.8.2013 - 10:44)
+Popravljena napaka v tekstu.
+lvls.ini pregledneje zapisan, da se izognem bodoèim napakam
+Izboljšano preraèunavanje razmerja med main in ostalimi za manjše vrednosti
+
+1.0.4 (25.8.2013 - 23:43)
+Odpravljen (?) hrošè pri raèunanju z majhnim številom enot.
+Bug: Èas za kopenske enote se ne raèuna pravilno (samo èas za sulièarje, zgleda) WFM.
+Bug: Pri 9 (hitri parniki) pride do negativnih vrednosti.
+
+1.0.5 (16.1.2014 - 22:24)
+Preurejen vrstni red enot, da sovpada z vrstnim redom v igri
+Feature: Avtomatsko shranjevanje deležev enot za naslednji zagon.
+Bugfix: Odpravljeni hrošèi najdeni v 1.0.4
+
+1.0.6 (19.3.2014 - 12:32)
+Bugfix: Èas treninga Ladij Balista/Katapult in Ladij Mortar je bil zamenjan.

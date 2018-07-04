@@ -1,0 +1,17 @@
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\bin\Debug\IkariamTrain.exe
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\bin\Debug\IkariamTrain.pdb
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.Properties.Resources.resources
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.exe
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.pdb
+D:\Dropbox\Aplikacije\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.FormTraining.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.exe
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.pdb
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\bin\Debug\IkariamTrain.exe
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\bin\Debug\IkariamTrain.pdb
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.FormTraining.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.Properties.Resources.resources
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.csprojResolveAssemblyReference.cache
+D:\Dropbox\Aplikacije\C#\Ikariam\IkariamTrain\IkariamTrain\obj\x86\Debug\IkariamTrain.csproj.GenerateResource.Cache
